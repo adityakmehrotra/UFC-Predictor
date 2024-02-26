@@ -3,3 +3,6 @@ Using the Random Forest Classifier Machine Learning algorithm to predict the cha
 
 ## Data
 I scraped all of the data that is being used from the official `ufcstats.com` website which holds all of the stats for every fight in UFC history
+
+## Last Updated
+02/25/2024
